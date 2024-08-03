@@ -1,7 +1,14 @@
+import os
 import time
 import keyboard
 import pytoml as toml
 import icon
+
+if "keys.toml" not in os.listdir("./"):
+    with open("keys.toml", "w") as f:
+        # is this smart? probably not
+        f.write("keys = [\"a\",\"d\"]\npollingRate = 100 # miliseconds")
+        f.flush()
 
 config = toml.load(open("./keys.toml", "r"))
 keys = config["keys"]
