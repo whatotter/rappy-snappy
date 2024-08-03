@@ -3,6 +3,10 @@ rappy snappy is a wooting keyboard 'feature' that allows the keyboard to automag
 
 **this works for all keyboards**
 
+you can see it working here:  
+
+https://github.com/user-attachments/assets/65f5238c-dfb4-4208-9f89-c6dd3b486ad6
+
 # DISCLAIMER
 this technically counts **as a macro**  
 it's not my fault if you get banned off of a game, there are no 'anticheat bypasses' for this as this isn't cheating software
