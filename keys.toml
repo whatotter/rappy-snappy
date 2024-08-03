@@ -1,0 +1,6 @@
+keys = [
+    "a",
+    "d"
+]
+
+pollingRate = 100 # in mss
